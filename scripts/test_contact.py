@@ -14,3 +14,6 @@ class TestContact:
 
     def test_contact3(self):
         assert True
+
+    def test_contact4(self):
+        assert False
